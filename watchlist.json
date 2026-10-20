@@ -1,0 +1,19 @@
+{
+  "_help": "Edit tickers below. policy_tilt: -2 (policy headwind) to +2 (policy tailwind), your judgement.",
+  "tickers": {
+    "NVDA":  {"sector": "AI chips",           "policy_tilt": 0},
+    "INTC":  {"sector": "Semiconductors",     "policy_tilt": 0},
+    "BE":    {"sector": "Power / fuel cells", "policy_tilt": 0},
+    "AAPL":  {"sector": "Consumer tech",      "policy_tilt": 0},
+    "GOOGL": {"sector": "Internet",           "policy_tilt": 0},
+    "MSFT":  {"sector": "Software / cloud",   "policy_tilt": 0},
+    "AB":    {"sector": "Asset management",   "policy_tilt": 0},
+    "UBER":  {"sector": "Mobility",           "policy_tilt": 0},
+    "XOM":   {"sector": "Energy",             "policy_tilt": 0},
+    "LMT":   {"sector": "Defense",            "policy_tilt": 0},
+    "JNJ":   {"sector": "Healthcare",         "policy_tilt": 0},
+    "PG":    {"sector": "Staples",            "policy_tilt": 0},
+    "MA":    {"sector": "Payments",           "policy_tilt": 0},
+    "CSX":   {"sector": "Rail / industrial",  "policy_tilt": 0}
+  }
+}
